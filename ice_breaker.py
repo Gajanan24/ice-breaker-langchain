@@ -53,7 +53,7 @@ if __name__ == '__main__':
 
     print("starting --------------------------------")
 
-    ice_breaker_with(name="Sanjeet kumar Java Team Lead at Central Government")
+    ice_breaker_with(name="")
     
 
     
